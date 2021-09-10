@@ -1,0 +1,8 @@
+flask
+python-socketio[client]
+gevent
+gevent-websocket
+flask_cors
+sqlalchemy
+flask_sqlalchemy
+flask_bcrypt
